@@ -1,1 +1,1 @@
-# Adaboost-Semisupervised-Learning
+# Semi-Adaboost-Learning
